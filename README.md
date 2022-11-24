@@ -10,4 +10,28 @@ Users are allowed to:
     select generating mode, out of monochrome, analogic, complement and many more
     click on one of the five colors generated to copy its hex value to the clipboard
 
-    asd
+
+### Screenshot
+
+Desktop version
+
+![desktop version](/ss/desktop.png)
+
+Mobile version
+
+![mobile version](/ss/mobile.png)
+
+### Built with
+
+- Semantic HTML5 markup
+- Sass
+- CSS custom properties
+- CSS Flexbox
+- Mobile-first workflow
+
+### Continued development
+
+## Author
+
+- Website - [Alexandru Stefan Gherhes](https://www.frontendmentor.io/profile/Baroush)
+- Frontend Mentor - [@Baroush](https://www.frontendmentor.io/profile/Baroush)
